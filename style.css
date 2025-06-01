@@ -29,3 +29,8 @@ a {
 	color: indigo;
 	text-decoration: none;
 }
+nav {
+	display: flex;
+	gap: 1rem;
+	justify-content: center;
+}
