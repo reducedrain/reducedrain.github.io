@@ -79,3 +79,7 @@ text-align: center;
 .center {
 text-align: center;
 }
+.nyan {
+border: 0;
+border-radius: 0;
+}
