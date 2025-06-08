@@ -6,7 +6,7 @@ padding: 30px;
 background-color: snow;
 border-left: 2px dashed pink;
 border-right: 2px dashed pink;
-height: 100vh;
+min-height: 100vh;
 }
 body {
 background-color: lavenderblush;
